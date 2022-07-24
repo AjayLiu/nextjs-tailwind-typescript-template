@@ -9,6 +9,7 @@
         "export": "yarn build && next export"
     },
     "dependencies": {
+        "@netlify/plugin-nextjs": "^4.13.0",
         "classnames": "^2.3.1",
         "next": "^12.2.3",
         "prop-types": "^15.8.1",
